@@ -21,7 +21,7 @@ $faltas= 0;
 //      V       V
 if($nota-do_murilo >= 6 && faltas <75){
     echo "murilo foi aprovado"
-} else; {
+}else{
     echo "murilo foi reprovado"
 }
 ?>
